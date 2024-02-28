@@ -2,6 +2,11 @@
 Tech News is an iOS application designed to keep you up-to-date with the latest technology news.
 Built using Swift and integrating CoreData for local storage, the app allows users to view news articles, save them for later reading, and manage their saved articles. This README outlines the setup process, features, and how to contribute to the project.
 
+## Overview
+https://github.com/guilhermemello07/TechNews/assets/72673965/30d1dec7-0162-4ebf-bcd2-d42f80c431f5
+
+
+
 ## Features
 Latest Technology News: Browse through the latest news articles related to technology.
 Search Functionality: Use the search bar to find articles that match your interests.
